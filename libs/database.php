@@ -7,7 +7,7 @@ $conn = null;
 function db_connect(){
     global $conn;
     if (!$conn){
-        $conn = mysqli_connect('remotemysql.com', 'Nv9c19N27g', 'YFFGZD99oA', 'Nv9c19N27g') 
+        $conn = mysqli_connect('remotemysql.com', '5wRh1WFS5S', '3AUtwCCqsG', '5wRh1WFS5S') 
                 or die ('Không thể kết nối CSDL');
         mysqli_set_charset($conn, 'UTF-8');
     }   
