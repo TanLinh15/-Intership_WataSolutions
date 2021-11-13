@@ -1,0 +1,60 @@
+textarea {
+    width: 100%;
+    height: 446px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+ h2 {
+   width: 100%;
+ }
+  
+  .block-heading{
+    width: 100%;
+    padding-top: 80px;
+    margin-bottom: 60px;
+    align-items: center;
+  }
+  
+  section input{
+    margin: 10px;
+  }
+  
+  h2{
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .support {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content:center;
+  }
+  .support .table {
+    width: 50%;
+  }
+
+  .table-input {
+    width: 100%;
+  }
+
+  .profile-form{
+    margin: 0px;
+    padding: 0px;
+  }
+  SELECT{
+    padding: 5px;
+  }
+  input.date{
+    width:50px;
+    padding: 5px;
+  }
+
+  
+  

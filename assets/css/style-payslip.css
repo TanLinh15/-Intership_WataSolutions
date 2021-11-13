@@ -1,0 +1,76 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css";
+.block-heading{
+	padding-top: 80px;
+	margin-bottom: 60px;
+}
+
+section input{
+	margin: 10px;
+}
+
+h2{
+	padding: 20px;
+	text-align: center;
+}
+.profile-form{
+	margin: 0px;
+	padding: 0px;
+}
+SELECT{
+  padding: 5px;
+}
+input.date{
+  width:50px;
+  padding: 5px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+
+.table {
+    width: 60%;
+    height: 450px;
+    border: 2px solid black;
+   
+}
+.table-file {
+    width: 100%;
+    height: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+.payslip {
+  width: 100%;
+  background: none;
+}
+
+  /* button */
+  .button {
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content: flex-end;
+    margin-left: 25px;
+  }
+  .button button {
+    background: none;
+    border: none;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+  }
+  button i {
+    font-size: 30px;
+  }
+
+  button i:hover {
+    font-size: 32px;
+  }
+

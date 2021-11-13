@@ -1,0 +1,110 @@
+.block-heading{
+	padding-top: 80px;
+	margin-bottom: 60px;
+}
+
+section input{
+	margin: 10px;
+}
+
+h2{
+	padding: 20px;
+	text-align: center;
+}
+.profile-form{
+	margin: 0px;
+	padding: 0px;
+}
+SELECT{
+  padding: 5px;
+}
+input.date{
+  width:50px;
+  padding: 5px;
+}
+
+/* chỉnh sửa form profile  */
+/* FUllName */
+.for-name {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.for-name label {
+    padding: 18px 0;
+}
+
+.form-pass-signup {
+    display: flex;
+    margin-left: 40px;
+}
+
+/* Date of Birth */
+form select {
+    width: 90px;
+    margin-left: 20px;
+}
+
+.for-birth {
+    margin-bottom: 15px;
+}
+
+/* Gender */
+#gender {
+    width: 95px;
+    margin-left: 63px;
+}
+
+.for-gender {
+    margin-bottom: 25px;
+}
+
+/* email */
+.for-email {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.for-email label {
+    padding-top: 20px;
+}
+
+.for-email input {
+    width: 490px;
+    margin-left: 80px;
+}
+
+/* phone */
+.for-phone {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.for-phone label {
+    width: 170px;
+    padding-top: 20px;
+}
+
+.for-phone input {
+    margin-left: 0px;
+} 
+
+/* address */
+.for-address {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.for-address label {
+    padding-top: 20px;
+}
+
+.for-address input {
+    margin-left: 62px;
+} 
+
+/* button update */
+.btn-update {
+    margin-left: -10px;
+   
+}
